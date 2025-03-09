@@ -1,3 +1,4 @@
 #ignore sensitive files
 keys.py
 venv/
+quotes.csv
