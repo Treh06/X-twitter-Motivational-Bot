@@ -1,0 +1,3 @@
+#ignore sensitive files
+keys.py
+venv/
