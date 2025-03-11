@@ -4,4 +4,4 @@ venv/
 quotes.csv
 data/
 test.py
-app/__pycache__/
+__pycache__/
