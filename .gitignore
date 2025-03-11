@@ -2,3 +2,5 @@
 keys.py
 venv/
 quotes.csv
+data/
+test.py
